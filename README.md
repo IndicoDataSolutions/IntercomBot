@@ -19,7 +19,7 @@ export INTERCOM_API_KEY='{INTERCOM_API_KEY}'
 ```
 
 
-Make an interom user for the bot and paste it's user ID into `intercombot/config.py`  
+Make an intercom user for the bot and paste it's user ID into `intercombot/config.py` as the `SUGGESTOR_ID`.   
 
 Build base message routing model based on historic data
 ```

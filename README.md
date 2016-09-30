@@ -18,6 +18,9 @@ export INTERCOM_APP_ID='{INTERCOM_APP_ID}'
 export INTERCOM_API_KEY='{INTERCOM_API_KEY}'
 ```
 
+
+Make an interom user for the bot and paste it's user ID into `intercombot/config.py`  
+
 Build base message routing model based on historic data
 ```
 python scripts/download_conversations.py

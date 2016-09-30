@@ -8,6 +8,8 @@ Install the python module:
 sudo python setup.py develop
 ```
 
+If you run into installation trouble, check our installation guide on [the indico blog](https://indico.io/blog/getting-started-indico-tutorial-for-beginning-programmers/).
+
 Sign up for an intercom API key at https://developers.intercom.io/page/getting-started
 and set up a webhook that responds to the "New Message from a User", "Reply from a User", and "Conversation assigned to Teammate" events.
 
